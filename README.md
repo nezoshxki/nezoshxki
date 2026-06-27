@@ -4,4 +4,5 @@
 
 $\color{#416a94}{\textbf{"only to find}}$ $\color{#366491}{\textbf{himself falling into}}$ $\color{#275c91}{\textbf{the same situation}}$ $\color{#0b4580}{\textbf{again."}}$
 
-Only to find himself falling into the same situation again. Watching everything change, watching his friends end up exactly how it did before. Gone
+$\color{#416a94}{\textbf{"watching everything change,}}$ $\color{#366491}{\textbf{watching his friends end}}$ $\color{#275c91}{\textbf{end up exactly how it did before.}}$ $\color{#0b4580}{\textbf{gone."}}$ 
+
